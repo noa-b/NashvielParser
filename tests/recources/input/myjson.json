@@ -1,0 +1,14 @@
+{
+    "name": "John",
+    "age": "30",
+    "addresses": [
+        {
+            "CITY": "New York",
+            "ZIP": "10001"
+        },
+        {
+            "CITY": "Nlojfiol",
+            "ZIP": "1004"
+        }
+    ]
+}
